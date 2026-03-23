@@ -23,6 +23,7 @@ This project uses Python, NumPy, Pandas, and scikit-learn to analyze agricultura
 ---
 
 ## 📂 Project Structure
+```bash
 Crop_Recommendation/
 │── static/                # static files
 │── templates/           # For FrontEnd design
@@ -33,6 +34,7 @@ Crop_Recommendation/
 │── model.pkl     # pkl file
 │── standscaler.pkl     # pkl file
 │── README.md            # Project documentation
+```
 
 ---
 
@@ -41,6 +43,7 @@ Crop_Recommendation/
 ```bash
 git clone https://github.com/YourUsername/Crop_Recommendation.git
 cd Crop_Recommendation
+```
 
 ### 2. Install dependencies
 like numpy, pandas, saikit-learn
