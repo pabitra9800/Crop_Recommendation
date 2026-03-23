@@ -41,7 +41,7 @@ Crop_Recommendation/
 ## 🚀 Getting Started
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YourUsername/Crop_Recommendation.git
+git clone https://github.com/pabitra9800/Crop_Recommendation.git
 cd Crop_Recommendation
 ```
 
@@ -49,7 +49,9 @@ cd Crop_Recommendation
 like numpy, pandas, saikit-learn
 
 ### 3. Run the application
-command: python app.py
+```bash
+python app.py
+```
 
 ---
 
